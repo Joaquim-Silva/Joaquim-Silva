@@ -12,7 +12,8 @@
 <a href="https://api.whatsapp.com/send?phone=5511987311278&text=Ol%C3%A1%20Joaquim! " title="Acesse de seu smartphone para enviar por WhatsApp"><b>WhatsApp </a></b>
 </p>
 
-![minima](https://user-images.githubusercontent.com/73228731/103376265-ef0e5b00-4aba-11eb-95fb-c6d8a851de6e.png)
+
+![minima](https://user-images.githubusercontent.com/73228731/103376389-43193f80-4abb-11eb-9836-819c84940471.png)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Silva&show_icons=true&theme=radical)
 

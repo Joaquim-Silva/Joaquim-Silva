@@ -13,7 +13,7 @@
 </p>
 
 
-![minima](https://user-images.githubusercontent.com/73228731/103376389-43193f80-4abb-11eb-9836-819c84940471.png)
+![minima](https://user-images.githubusercontent.com/73228731/103376505-912e4300-4abb-11eb-87ce-fcd7264e1f4c.png)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Silva&show_icons=true&theme=radical)
 

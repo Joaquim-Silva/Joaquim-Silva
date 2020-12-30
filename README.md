@@ -13,8 +13,6 @@
 </p>
 
 
-![minima](https://user-images.githubusercontent.com/73228731/103376615-ec603580-4abb-11eb-9a0c-808bcaf36254.png)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Silva&show_icons=true&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>

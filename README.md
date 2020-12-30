@@ -4,13 +4,14 @@
   Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo um e-commerce  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
 
 <p>
-<h3> Você pode me encontrar aqui :🌏: </h3>
+<h3> Você pode me encontrar aqui 🌏 </h3>
 </p>
 <a href="https://cutt.ly/gjrESaV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diego-silva-061527156/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joaquim.diego8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/joaquim.diego8/" height="30" width="40" /></a>
 <a href="https://discord.gg/Joaquim Silva#3269" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Joaquim Silva#3269" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5511987311278&text=Ol%C3%A1%20Joaquim! " title="Acesse de seu smartphone para enviar por WhatsApp"><b>WhatsApp </a></b>
 </p>
+![imggit](https://user-images.githubusercontent.com/73228731/103375077-f7b16200-4ab7-11eb-8dfe-7784b5d1bf2d.jpg)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Silva&show_icons=true&theme=radical)
 

@@ -7,7 +7,7 @@
 <h3> Você pode me encontrar aqui :🌏: </h3>
 </p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-silva-061527156/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diego-silva-061527156/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/joaqu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/joaquim.diego8/" height="40" width="50" /></a>
+<a href="https://www.instagram.com/joaquim.diego8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/joaquim.diego8/" height="30" width="40" /></a>
 <a href="https://discord.gg/Joaquim Silva#3269" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Joaquim Silva#3269" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5511987311278&text=Ol%C3%A1%20Joaquim! " title="Acesse de seu smartphone para enviar por WhatsApp"><b>WhatsApp </a></b>
 

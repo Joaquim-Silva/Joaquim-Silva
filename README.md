@@ -1,9 +1,10 @@
 
  Sou o Joaquim, moro em São Paulo e estou estudando para me tornar um Desenvolvedor Full Stack! :foguete:
-  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo um e-commerce  em equipe utilizando Java :café:, Spring Boot :folhas_voando:, SQL :golfinho:, Angular :a: e Docker :baleia1:.
+ 
+  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo um e-commerce  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
 
 <p>
-<h3> Você pode me encontrar aqui :terra_ásia: </h3>
+<h3> Você pode me encontrar aqui :🌏: </h3>
 </p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-silva-061527156/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diego-silva-061527156/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/joaqu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/joaqu" height="30" width="40" /></a>

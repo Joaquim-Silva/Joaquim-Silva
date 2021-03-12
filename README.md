@@ -1,7 +1,8 @@
 
  Sou o Joaquim, moro em São Paulo e estou estudando para me tornar um Desenvolvedor Full Stack! 🚀
  
-  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo um e-commerce  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
+Formado no  Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e desenvolvemos um e-commerce  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
+Atualmente Sou Analista de Engenharia TI Jr no itaú Unibanco. 
 
 <p>
 <h3> Você pode me encontrar aqui 🌏 </h3>

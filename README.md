@@ -1,8 +1,4 @@
-
- Sou o Joaquim, moro em São Paulo e estou estudando para me tornar um Desenvolvedor Full Stack! 🚀
- 
-Formado no  Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e desenvolvemos um e-commerce  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
-Atualmente Sou Analista de Engenharia TI Jr no itaú Unibanco. 
+Olá! Eu sou Diego e trabalho no Itaú há 2 anos e meio, onde tenho contribuído para projetos envolvendo Java, Python e AWS. Sou certificado como AWS Cloud Practitioner e tenho um forte foco em desenvolvimento em Java.
 
 <p>
 <h3> Você pode me encontrar aqui 🌏 </h3>

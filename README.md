@@ -69,6 +69,18 @@ Atuar no epicentro da convergência entre **Engenharia de Dados e IA**, construi
 
 ---
 
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [Pipeline de Dados](#) | Pipeline ETL escalável com orquestração e processamento distribuído | Python, Airflow, Spark, AWS |
+| [Modelo Preditivo](#) | Modelo de Machine Learning aplicado a casos reais de negócio | Python, Scikit-learn, Pandas |
+| [Agente de IA](#) | Agente baseado em LLM para consultas em linguagem natural | LangChain, OpenAI, FastAPI |
+
+> 💡 *Substitua os links `#` pelos repositórios reais dos seus projetos.*
+
+---
+
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">
@@ -108,10 +120,14 @@ Atuar no epicentro da convergência entre **Engenharia de Dados e IA**, construi
 
 ---
 
-<p align="center">
-  <i>⭐ "Transformando dados em inteligência, e inteligência em resultado."</i>
-</p>
+## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'"/>
+  <img src="https://ghchart.rshah.org/radical/Joaquim-Silva" alt="Gráfico de contribuições de Joaquim-Silva" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ "Transformando dados em inteligência, e inteligência em resultado."</i>
 </p>

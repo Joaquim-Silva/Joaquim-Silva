@@ -69,18 +69,6 @@ Atuar no epicentro da convergência entre **Engenharia de Dados e IA**, construi
 
 ---
 
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [Pipeline de Dados](#) | Pipeline ETL escalável com orquestração e processamento distribuído | Python, Airflow, Spark, AWS |
-| [Modelo Preditivo](#) | Modelo de Machine Learning aplicado a casos reais de negócio | Python, Scikit-learn, Pandas |
-| [Agente de IA](#) | Agente baseado em LLM para consultas em linguagem natural | LangChain, OpenAI, FastAPI |
-
-> 💡 *Substitua os links `#` pelos repositórios reais dos seus projetos.*
-
----
-
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">

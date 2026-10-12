@@ -12,7 +12,7 @@
 - **Pós-Graduação em Engenharia de Dados para Inteligência Artificial** — DSA  
   Programa Lato Sensu reconhecido pelo MEC, focado na convergência entre Engenharia de Dados, IA e sistemas inteligentes. Abrange desde fundamentos técnicos de IA Generativa até arquitetura, implementação, operacionalização e proteção de sistemas de dados e IA em produção, com ênfase em **escala, desempenho e governança**.
 
-- **Ciência de Dados, Estatística e Modelagem com Python** — Inteligenz Analítica  
+- **Ciência de Dados, Estatística e Modelagem com Python** — Inteligência Analítica  
   Jornada estruturada em 20 módulos que combina fundamentos de programação, estatística descritiva, redução de dimensionalidade, segmentação de clientes e algoritmos de regressão, classificação, recomendação e séries temporais aplicados a crédito, saúde, energia, marketing e operações — encerrada com um projeto prático de redução de custo.
 
 ## 🚀 Foco atual
